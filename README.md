@@ -1,14 +1,10 @@
-# Tienda-online-php-mvc-y-mysql
-![tienda](https://github.com/VidaInformatico/Tienda-online-PHP-mvc-y-Mysql/assets/71534078/13df062f-c63d-4ca7-9437-d1bcc5acf4a9)
+<<<<<<< HEAD
+Contenido local
+=======
+Contenido remoto
 
-## Configuración
+> > > > > > > main
 
-Instalación de Phpmailer
-
-```bash
-  composer install
-```
-    
-## Credenciales de acceso
-- Email: angelsifuentes2580@gmail.com
-- Clave: 12345
+# Christian-Fashion
+Christian Fashion es una tienda virtual de ropa diseñada específicamente para la comunidad cristiana en la ciudad de Ibagué, Colombia. Nuestro objetivo es proporcionar una plataforma en línea donde los usuarios puedan encontrar y adquirir ropa que refleje sus valores y creencias cristianas.
+>>>>>>> 476f877653b29d58a9b8f14f8617c01e92a03ea2
